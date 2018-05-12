@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4710
     wikipedia: http://en.wikipedia.org/wiki/John_Cowper_Powys
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21668#The-Complex-Vision
 gutenberg_issued: '2007-06-03'
 gutenberg_type: Text
 identifiers:
